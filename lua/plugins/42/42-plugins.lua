@@ -4,8 +4,8 @@ return {
 	-- feel free to comment the following line and add yours!
 	-- I added the default one for good measure.
 
-	-- "42Paris/42header",
+	 "42Paris/42header",
 	-- 'fclivaz42/42header-ls',
-	'pbondoer/vim-42header',
+	--'pbondoer/vim-42header',
 	"hardyrafael17/norminette42.nvim"
 }

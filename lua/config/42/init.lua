@@ -4,7 +4,7 @@
 --
 -- 42 Global Variables.
 vim.g.user42 = 'emaillet'
-vim.g.mail42 = 'lolelsay@lvsnr.fr'
+vim.g.mail42 = 'emaillet@student.42.fr'
 
 require("norminette").setup({
 	runOnSave = true,
