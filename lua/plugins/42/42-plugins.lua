@@ -5,6 +5,7 @@ return {
 	-- I added the default one for good measure.
 
 	-- "42Paris/42header",
-	'fclivaz42/42header-ls',
+	-- 'fclivaz42/42header-ls',
+	'pbondoer/vim-42header',
 	"hardyrafael17/norminette42.nvim"
 }
