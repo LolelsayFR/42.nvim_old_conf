@@ -45,3 +45,9 @@ if (vim.g.user42 ~= "SET YOUR USER UP") then
 else
 	vim.notify("If you see this you haven't configured your stuff!\nDon't forget to take a peek at your ~/.config/nvim", "error", { title = " 42-Nvim" })
 end
+
+-- Personal old vibes vim config
+vim.cmd([[
+colorscheme slate
+]])
+
