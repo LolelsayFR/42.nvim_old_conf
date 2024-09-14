@@ -7,5 +7,6 @@ return {
 	 "42Paris/42header",
 	-- 'fclivaz42/42header-ls',
 	--'pbondoer/vim-42header',
-	"hardyrafael17/norminette42.nvim"
+	--"hardyrafael17/norminette42.nvim",
+	"LolelsayFR/norminette42.nvim"
 }
