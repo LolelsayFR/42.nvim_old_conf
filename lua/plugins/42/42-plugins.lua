@@ -8,5 +8,6 @@ return {
 	-- 'fclivaz42/42header-ls',
 	--'pbondoer/vim-42header',
 	--"hardyrafael17/norminette42.nvim",
+	"xiyaowong/transparent.nvim",
 	"LolelsayFR/norminette42.nvim"
 }
