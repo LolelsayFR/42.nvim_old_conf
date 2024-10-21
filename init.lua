@@ -48,6 +48,6 @@ end
 
 -- Personal old vibes vim config
 vim.cmd([[
-colorscheme slate
+colorscheme astrodark
 ]])
 
