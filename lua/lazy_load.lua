@@ -5,6 +5,7 @@ require('lazy').setup({
 	'tpope/vim-obsession',
 	'tpope/vim-fugitive',
 	'tpope/vim-surround',
+	'github/copilot.vim',
 	'nvim-tree/nvim-web-devicons',
 	{
 		'NvChad/nvim-colorizer.lua',

@@ -40,7 +40,7 @@ end
 
 vim.notify = require("notify")
 
-if (vim.g.user42 ~= "SET YOUR USER UP") then
+if (vim.g.user42 ~= "Emaillet") then
 	vim.notify("Welcome back " .. vim.g.user42 .. "! :)\nUse 'space-T' to switch between themes.", "info", { title = " 42-Nvim" })
 else
 	vim.notify("If you see this you haven't configured your stuff!\nDon't forget to take a peek at your ~/.config/nvim", "error", { title = " 42-Nvim" })
