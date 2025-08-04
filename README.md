@@ -11,7 +11,7 @@ Heavily based on [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) an
 Once you forked this repo, simply execute the following (make sure to change `<your_name_here>` to your github login!):
 ```shell
 mv ~/.config/nvim ~/.config/nvim.bak
-git clone git@github.com:<your_name_here>/42-nvim.git ~/.config/nvim
+git clone git@github.com:LolelsayFR/42.nvim_old_conf.git ~/.config/nvim
 vim ~/.config/nvim/lua/config/42/init.lua
 ```
 
